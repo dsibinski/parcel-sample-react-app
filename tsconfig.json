@@ -1,0 +1,12 @@
+{
+  "include": ["**/*"],
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "target": "es2021",
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "strict": true,
+    "skipLibCheck": true
+  }
+}
